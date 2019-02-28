@@ -7,7 +7,9 @@
 
 * Git-Tutorial
   * dataStructure
-  
+  * N-queen	
+  * Observation	
+  * Sds
   
 > '공부해요 제발제발.' - 진형진 -
 
