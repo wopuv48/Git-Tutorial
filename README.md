@@ -16,4 +16,4 @@
 **왜?** 공부를 안할까? ~~게을러서~~ 그런걸까?
 
 
-**수정사항** ~~No more Algorithm in here ~~
+**수정사항** ~~No more Algorithm in here~~
