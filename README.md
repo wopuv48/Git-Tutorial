@@ -1,4 +1,4 @@
-# Git Practice & Algorithm with Java
+# Git Practice
 
 깃을 연습할겸 알고리즘 연습한것을 옮기는 Repo
 
