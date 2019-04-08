@@ -13,7 +13,7 @@
   
 > '공부해요 제발제발.' - Bruno -
 
-**왜?** 공부를 안할까? ~~게을러서~~ 그런걸까? 나는 그것을 깰것이다.
+**왜?** : Laziness! we will break it down, tear it down!
 
 
 **수정사항** : ~~No more Algorithm in here~~
