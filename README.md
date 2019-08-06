@@ -10,8 +10,6 @@
   * N-queen	
   * Observation	
   * Sds
-  
-> '공부해요 제발제발.' - Bruno -
 
 **왜?** : Laziness! we will break it down, tear it down!
 
